@@ -1,0 +1,7 @@
+openapi: 3.0.0
+info:
+  version: 0.1.0
+  title: kaiheila-open-api
+  description: 'Open API for Kaiheila'
+paths: {}
+servers:
